@@ -1,0 +1,7 @@
+# Olá Mundo!
+
+Essa é a minha iniciação ao mundo do desenvolvimento.
+Esse arquivo, leia-me, descreve como estou procedendo
+nesse novo caminho profissional.
+
+Então vamos lá.
